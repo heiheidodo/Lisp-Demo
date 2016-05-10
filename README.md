@@ -1,4 +1,4 @@
-# Lisp-Demo
+# Scheme-Demo
 
 How to invoke?
 Using command:
